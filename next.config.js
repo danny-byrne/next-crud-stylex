@@ -11,3 +11,5 @@ module.exports = stylexPlugin({
   rootDir,
   useCSSLayers: true,
 })({});
+
+// https://github.com/facebook/stylex/blob/main/apps/nextjs-example/.babelrc.js <- this was helpful
